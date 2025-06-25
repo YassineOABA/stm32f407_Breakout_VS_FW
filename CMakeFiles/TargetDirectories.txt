@@ -1,0 +1,8 @@
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/CMakeFiles/MyBoard_VS_FW.dir
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/CMakeFiles/edit_cache.dir
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/CMakeFiles/rebuild_cache.dir
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/cmake/stm32cubemx/CMakeFiles/USB_Device_Library.dir
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Yassine/Desktop/STM32Projects/Custom_Boards/MyBoard_VS_FW/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

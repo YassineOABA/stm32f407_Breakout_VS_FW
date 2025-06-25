@@ -1,0 +1,21 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "name": "STM32",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "intelliSenseMode": "${default}",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/Core/Inc/Bmi160",
+                "${workspaceFolder}/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "${workspaceFolder}/Core/Inc",
+                "${workspaceFolder}/Core/Inc/Bmi160",
+                "${workspaceFolder}/Core/Inc/Bme280",
+                "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "${workspaceFolder}/Core/Inc/W25q128jv",
+                "${workspaceFolder}/Core/Inc/Lfs"
+            ]
+        }
+    ]
+}
